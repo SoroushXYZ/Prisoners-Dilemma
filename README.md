@@ -1,6 +1,6 @@
 # Prisoner's Dilemma tested using python
 
-Prisoner's Dilemma is a famous probability dilemma Melvin Dresher and Merrill Flood. The math was cool and stuff... But I wouldn't believe it unless I could see it myself.
+Prisoner's Dilemma is a famous probability dilemma created by Melvin Dresher and Merrill Flood. The math was cool and stuff... But I wouldn't believe it unless I could see it myself.
 
 Here's a link to a video explaining the riddle and explaining the math behind it:
 [https://www.youtube.com/watch?v=iSNsgj1OCLA&t](https://www.youtube.com/watch?v=iSNsgj1OCLA&t)
